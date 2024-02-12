@@ -2,8 +2,9 @@
     Valentine's Wish
 </h1>
 
-[![Author](Mr.Xu)
-
+<h2 align="center">
+     Mr.Xu FOR Miss.Hu
+</h2>
 
 #### [See it Live](https://gugu0818.github.io/)
 
